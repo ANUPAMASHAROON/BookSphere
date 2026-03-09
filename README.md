@@ -4,10 +4,6 @@
 
 ### *The Intelligent Book Ecosystem*
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername/booksphere)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Pages](https://img.shields.io/badge/Pages-8+-brightgreen)](https://github.com/yourusername/booksphere)
-[![Books](https://img.shields.io/badge/Books-10K%2B-blue)](https://github.com/yourusername/booksphere)
 
 <img src="https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=200" alt="BookSphere Logo" width="150"/>
 
@@ -219,7 +215,7 @@ git init
 git add .
 git commit -m "🎉 Initial release: BookSphere is live!"
 git branch -M main
-git remote add origin https://github.com/ANUPAMASHAROON/booksphere.git
+git remote add origin https://github.com/ANUPAMASHAROON/BookSphere.git
 git push -u origin main
 
 # Updates later
